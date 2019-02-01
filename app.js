@@ -21,8 +21,7 @@ const parseTime = function(input) {
     };
 
     if (date.isValid()) {
-        output.unix = +date.format("X");
-      console.log(output.unix);
+        output.unix = date.format("X");
         output.natural = date.format("MMMM D, YYYY");
     }
 
