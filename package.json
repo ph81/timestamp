@@ -11,9 +11,7 @@
 		"cors": "^2.8.0",
 		"dateformat": "^3.0.3",
 		"express": "^4.12.4",
-		"moment": "^2.24.0",
-		"mongodb": "^3.1.13",
-		"mongoose": "^5.4.8"
+		"moment": "^2.24.0"
 	},
 	"engines": {
 		"node": "4.4.5"
